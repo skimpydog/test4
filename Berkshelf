@@ -1,4 +1,0 @@
-source "https://github.com/onema/opsworks-chef-cookbooks.git"
-
-cookbook 'cronjobs', '= 1.0.0'
-cookbook 'phpenv', '= 1.0.0'
