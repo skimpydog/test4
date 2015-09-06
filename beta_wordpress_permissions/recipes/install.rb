@@ -3,4 +3,3 @@
     command "touch /tmp/text"
     action :run
   end
-end
